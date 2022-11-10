@@ -1,9 +1,2 @@
 import './css/style.css';
-import './js/container_set';
-import './js/bowman';
-import './js/character';
-import './js/daemon';
-import './js/magicain';
-import './js/swordsman';
-import './js/undead';
-import './js/zombie';
+import './js/container_map';
